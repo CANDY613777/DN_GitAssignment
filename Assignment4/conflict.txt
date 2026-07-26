@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is Master branch version
 
 
+=======
+This is feature branch version
+>>>>>>> conflict-branch
